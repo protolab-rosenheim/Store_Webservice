@@ -1,5 +1,8 @@
 # Store Webservice
 
+## Contributors
+- [Martin Neumayer](https://github.com/orgs/protolab-rosenheim/people/swifmaneum)
+- [Michael List](https://github.com/orgs/protolab-rosenheim/people/Michael-List)
 
 ## Building and running the Docker Container
 
