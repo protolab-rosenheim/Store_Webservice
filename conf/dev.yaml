@@ -1,0 +1,21 @@
+webservice:
+    host: 127.0.0.1 #Either 127.0.0.1 (accessible from your own computer) or 0.0.0.0 (externally visible)
+    port: 5000
+    debug: True
+    demodata: False
+
+demo_database:
+    ip_address: 192.168.1.54
+    port: 5432
+    user: postgres
+    password: mysecretpassword
+    database: postgres
+    dialect: postgresql
+
+database:
+    driver: '{SQL Server}' #E.g. '{SQL Server}' or '{FreeTDS}'
+    ip_address: 192.168.1.52
+    instance: SQLEXPRESS
+    user: mydbuser
+    password: mypassword
+
